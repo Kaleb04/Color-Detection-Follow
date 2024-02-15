@@ -1,0 +1,1 @@
+Make sure a video camera source is connected to your computer. Then run the program and have a red object in the frame with good lighting and a green dot should move towards the center of the red. "q" to stop the program.
